@@ -28,3 +28,10 @@ print " Ranks @ranks\n";
 print " Names @names\n";
 
 print " Name $names[0]\n";
+
+print @ranks;
+print "\n===\n";
+print @names;
+print "\n===\n";
+push (@ranks,@names);
+print @ranks;

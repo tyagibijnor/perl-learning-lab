@@ -1,0 +1,8 @@
+= What is Chomp / Chop ?
+= What is use and require ?
+= How to reverse a string without function ?
+= How to short a array without function ?
+= How to write a package ?
+= How to create constractor ?
+= How to use reguler expression ?
+= How to replace string using regular expression ? 

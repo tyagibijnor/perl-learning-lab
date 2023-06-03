@@ -21,6 +21,8 @@ use warnings;
 use utf8;
 
 my $str = "Learning Perl is easy\n";
+my $str1 = "Learning fdsaf assfdafasdf as Perl fsaf fa sfa f asf sadf fsa fis easy\n";
 my $sub = "Perl";
-my $p = index($str,$sub); # rindex($s,$sub);
-print(qq\The substring "$sub" found at position "$p" in string "$str"\,"\n");
+my $p = index($str1,$sub); # rindex($s,$sub);
+my $rp = index($str1,$sub);
+print(qq\The substring "$sub" found at position "$rp" in string "$str1"\,"\n");
